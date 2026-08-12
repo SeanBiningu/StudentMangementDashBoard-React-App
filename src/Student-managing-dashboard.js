@@ -183,22 +183,22 @@ StudentHub
 <nav>
 
 
-<a>
+<a href="#dashboard">
 Dashboard
 </a>
 
 
-<a>
+<a href="#students">
 Students
 </a>
 
 
-<a>
+<a href="#courses">
 Courses
 </a>
 
 
-<a>
+<a href="#reports">
 Reports
 </a>
 
